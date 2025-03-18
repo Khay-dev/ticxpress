@@ -83,7 +83,7 @@ const HomePage = () => {
       </section>
       <section className="px-4 md:px-[50px] py-[50px] lg:px-[130px] md:py-[50px] gap-y-10 bg-[#f8f9fa] flex flex-col ">
         <div className=" flex flex-col gap-y-5 items-center justify-center">
-          <p className="xl:text-[40px] lg:text-[35px] md:text-[30px] text-[25px] font-bold lg:leading-[50px] tracking-[-2px] text-[#2a2a2a] md:text-center">
+          <p className="xl:text-[40px] lg:text-[35px] md:text-[30px] text-[25px] font-bold lg:leading-[50px] tracking-[-2px] text-[#2a2a2a] text-center">
             Choose From Different <br /> Categories of Event
           </p>
           <p className="text-base font-normal text-center leading-8 lg:w-[60%] md:w-[70%] w-full text-[#2a2a2a]">
