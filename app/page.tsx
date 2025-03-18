@@ -128,9 +128,9 @@ function FeaturesComp() {
         key={feature.header}
         className="flex flex-col items-center text-center border border-gray-200 rounded-xl p-4 shadow-2xs"
       >
-        <div className="text-4xl mb-4">{feature.icon}</div>
-        <h3 className="text-xl font-semibold mb-2">{feature.header}</h3>
-        <p className="text-base text-[#2a2a2a]">{feature.text}</p>
+        <div className="text-4xl mb-4 text-[#2a2a2a]">{feature.icon}</div>
+        <h3 className="text-xl font-semibold mb-2 text-[#2a2a2a]">{feature.header}</h3>
+        <p className="text-base text-[#2a2a2a] text-[#2a2a2a]">{feature.text}</p>
       </div>
     ))
   )
