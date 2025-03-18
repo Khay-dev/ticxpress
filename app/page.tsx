@@ -35,7 +35,7 @@ const HomePage = () => {
           </button>
         </Link>
       </section>
-      <section className=" bg-[url('/hero.jpg')] bg-cover bg-bottom md:bg-center bg-scroll md:bg-fixed bg-no-repeat h-fit lg:min-h-[50vh] xl:min-h-[90vh] md:min-h-[40vh]  bg-white  md:bg-cover " />
+      <section className=" bg-[url('/hero.jpg')] bg-cover bg-bottom md:bg-center bg-scroll md:bg-fixed bg-no-repeat min-h-[30vh] lg:min-h-[50vh] xl:min-h-[90vh] md:min-h-[40vh]  bg-white  md:bg-cover " />
       <section className="px-4 md:px-[50px] py-[50px] lg:px-[130px] md:py-[50px] gap-y-10 bg-[#f8f9fa] flex flex-col ">
         <div className=" flex flex-col gap-y-5 items-center justify-center">
           <p className="xl:text-[40px] lg:text-[35px] md:text-[30px] text-[25px] font-bold lg:leading-[80px] tracking-[-2px] text-[#2a2a2a]">
